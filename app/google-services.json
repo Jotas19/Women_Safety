@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "77589377964",
+    "project_id": "app-introduccion-fcb76",
+    "storage_bucket": "app-introduccion-fcb76.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:77589377964:android:adfbe347494d21a0774009",
+        "android_client_info": {
+          "package_name": "com.jjrp.app_introduccion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "77589377964-vn6k9t0p3orr44mrarrfm91b3pp94lhh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtQI6YxQ0xs26KnxSrBdX8QUXPH1znAgU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "77589377964-vn6k9t0p3orr44mrarrfm91b3pp94lhh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
